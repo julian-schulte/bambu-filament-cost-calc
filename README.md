@@ -11,14 +11,14 @@
 
 #### Roadmap:
 
-- **V1.1**
-  - Input Validation & Sanity Checks: Prevent crashes on invalid inputs (e.g., commas instead of dots, text inputs, negative numbers, or zero models per plate) using reusable validation helpers.
-- **V2.0**
-  - .3mf File Parser: Automatically extract filament usage, print time, and object count directly from sliced Bambu Studio .gcode.3mf files.
-- **V2.1**
-  - Local Presets & Workflow Automation:** Save default rates (electricity, printer wattage, margins, filament prices) in a local config.json and support drag-and-drop or folder watching for exported slicer files.
-- **V3.0**
-  - User Interface: Add a lightweight web or desktop GUI on top of the modular calculation engine.
+- **V1.1 Input Validation & Sanity Checks:**
+  - Prevent crashes on invalid inputs using reusable validation helpers.
+- **V2.0 .3mf File Parser:**
+  - Automatically extract filament usage, print time, and object count directly from sliced Bambu Studio .gcode.3mf files.
+- **V2.1 Local Presets & Workflow Automation:**
+  -  Save default rates in a local config.json and support folder watching for exported slicer files.
+- **V3.0 User Interface:**
+  -  Add a lightweight web or desktop UI on top of the modular calculation engine.
 
 #### Usage:
 
