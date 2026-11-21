@@ -7,11 +7,11 @@
 #### Current Implementation & Updates
 
 > V1.1 // 21.11.2026
- > - **NEW:** Added Input Validation & Sanity Checks
+> - **NEW:** Added Input Validation & Sanity Checks: Prevent crashes on invalid inputs using reusable validation helpers.
 
-
-- add buffers and profit margins to your liking
-- Prevent crashes on invalid inputs using reusable validation helpers.
+> V1 // 19.11.2026
+> - **NEW:** Add buffers and profit margins to your liking
+> - **NEW:** Calculate the ACTUAL costs of your print incl. material cost, energy cost and labour cost
 
 #### Roadmap:
 
