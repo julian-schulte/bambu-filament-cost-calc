@@ -1,18 +1,20 @@
-# Bambu Filament Cost Calculator // V1.0
+# Bambu Filament Cost Calculator // V1.1
 
 ### Calculate the ACTUAL costs of your print
 
 ---
 
-#### Current Implementation:
+#### Current Implementation & Updates
 
-- Calculate your total printing costs incl. labor and energy costs
+> V1.1 // 21.11.2026
+ > - **NEW:** Added Input Validation & Sanity Checks
+
+
 - add buffers and profit margins to your liking
+- Prevent crashes on invalid inputs using reusable validation helpers.
 
 #### Roadmap:
 
-- **V1.1 Input Validation & Sanity Checks:**
-  - Prevent crashes on invalid inputs using reusable validation helpers.
 - **V2.0 .3mf File Parser:**
   - Automatically extract filament usage, print time, and object count directly from sliced Bambu Studio .gcode.3mf files.
 - **V2.1 Local Presets & Workflow Automation:**
